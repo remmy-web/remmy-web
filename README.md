@@ -7,3 +7,4 @@
 📚 I work with Django, React, and machine learning.  
 🎯 I'm currently building a soil analysis API to support labs across Africa.  
 🚀 Always exploring innovative ways to help farmers embrace tech and thrive better.
+📱 i can be reached on yigaremegious@gmail.com
